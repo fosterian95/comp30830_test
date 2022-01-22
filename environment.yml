@@ -1,0 +1,6 @@
+name: comp30830.1
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: C:\Users\foste\anaconda3\envs\comp30830.1
